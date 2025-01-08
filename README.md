@@ -4,13 +4,13 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby Starter: Minimal Blog
+  Gatsby Starter: Yashika
 </h1>
 
 <p align="center">
-  <a href="https://github.com/LekoArts/gatsby-starter-minimal-blog/blob/master/LICENSE">
+  <!-- <a href="https://github.com/LekoArts/gatsby-starter-minimal-blog/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/license-0BSD-blue.svg" alt="Minimal Blog is released under the 0BSD license." />
-  </a>
+  </a> -->
   <a href="https://github.com/sponsors/LekoArts">
     <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/LekoArts">
   </a>
